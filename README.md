@@ -18,10 +18,7 @@ Short presentation about myself. I'm Antoine Marcadé, 27 years old's Data Analy
 
 ## Skills
 
-* **Script langage and environment tools :**
-<p align="left">
-<img height=200 src="https://img.icons8.com/color/344/pycharm.png" alt="pycharm" />
-</p>
+* **Script langage and environment tools :** <img height=50 src="https://img.icons8.com/color/344/pycharm.png" alt="pycharm" />
 * **Databases server : **
 * **Monitoring tools : **
 * **Automated tasks tools :**
