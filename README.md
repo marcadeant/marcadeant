@@ -3,8 +3,9 @@
 Short presentation about myself. I'm Antoine Marcadé, 27 years old's Data Analyst open to work. 
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />
+</p>
 
-  ### A Little bit more about myself 👌
+### A Little bit more about myself 👌
 
 
 - 🌱 I’m currently learning Data Analyst tools to deliver reliables analyses and build dynamics data representation (Tableau Software Application, Data Studio & Grafana dashboard...) 
@@ -17,10 +18,11 @@ Short presentation about myself. I'm Antoine Marcadé, 27 years old's Data Analy
 
 ## Skills
 
-- **Script langage and environment tools :**
+* **Script langage and environment tools :**
 <p align="left">
 <img src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg" alt="pycharm" />
-- **Databases server : **
-- **Monitoring tools : **
-- **Automated tasks tools :**
-- **Big Data framework : **
+</p>
+* **Databases server : **
+* **Monitoring tools : **
+* **Automated tasks tools :**
+* **Big Data framework : **
