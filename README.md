@@ -18,8 +18,8 @@ Short presentation about myself. I'm Antoine Marcadé, 27 years old's Data Analy
 
 ## Skills
 
-* **Script langage and environment tools :** <img height=30 src="https://img.icons8.com/color/344/pycharm.png" alt="pycharm" /><img height=30 src="https://img.icons8.com/fluency/344/jupyter.png" alt="pycharm" /><img height=30 src="https://img.icons8.com/color/344/python.png" alt="pycharm" /><img height=30 src="https://img.icons8.com/ios-filled/344/sql.png" />
-* **Databases server : ** <img height=30 src="https://img.icons8.com/fluency/344/mysql-logo.png" /><img height=30 src="https://img.icons8.com/color/344/postgreesql.png" /><img height=30 src="https://tse3.mm.bing.net/th?id=OIP.0x0B8E0msmAtVgZqn8bjxAHaE8&pid=Api" />
-* **Monitoring tools : ** <img height=30 src="https://img.icons8.com/color/344/tableau-software.png" /><img height=30 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" /><img height=30 src="https://tse1.mm.bing.net/th?id=OIP.x1pnPPxRjPkKoSrG9O0DqgHaCV&pid=Api" /><img height=30 src="https://img.icons8.com/color/344/power-bi.png" />
+* **Script langage and environment tools :** <img height=30 src="https://img.icons8.com/color/344/pycharm.png" alt="pycharm" />. <img height=30 src="https://img.icons8.com/fluency/344/jupyter.png" alt="pycharm" />. <img height=30 src="https://img.icons8.com/color/344/python.png" alt="pycharm" />. <img height=30 src="https://img.icons8.com/ios-filled/344/sql.png" />
+* **Databases server :** <img height=30 src="https://img.icons8.com/fluency/344/mysql-logo.png" /><img height=30 src="https://img.icons8.com/color/344/postgreesql.png" /><img height=30 src="https://tse3.mm.bing.net/th?id=OIP.0x0B8E0msmAtVgZqn8bjxAHaE8&pid=Api" />
+* **Monitoring tools :** <img height=30 src="https://img.icons8.com/color/344/tableau-software.png" /><img height=30 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" /><img height=30 src="https://tse1.mm.bing.net/th?id=OIP.x1pnPPxRjPkKoSrG9O0DqgHaCV&pid=Api" /><img height=30 src="https://img.icons8.com/color/344/power-bi.png" />
 * **Automated tasks tools :**
-* **Big Data framework : **
+* **Big Data framework :**
