@@ -1,25 +1,22 @@
-### Welcome to my personal work area !
+## Welcome to my personal work area !
 
 <br></br>
 
-<div>
-  <div>
-    <img width=200 src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />
-  </div>
+<img width="25%" src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />  <img src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />  
 
-  <div>
-    Firstable, I'm **Antoine Marcadé**, 27 years old's Data Analyst.
-    I'm living in suburbs of Paris
-    I'm following a 1-year data analyst professional training  ending in october 2022
-    I'm ready to get the opportunity helping companies to value their data and find keys indicator to improve business
-  </div>
-</div>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />  
-</div>
-
+<br></br>
 ---
+<br></br>
+
+# Hi 
+- Firstable, I'm **Antoine Marcadé**, 27 years old's Data Analyst.
+- I'm living in suburbs of Paris
+- I'm following a 1-year data analyst professional training  ending in october 2022
+- I'm ready to get the opportunity helping companies to value their data and find keys indicator to improve business
+
+<br></br>
+---
+<br></br>
 
 ### A Little bit more about myself 👌
 
