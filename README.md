@@ -2,9 +2,9 @@
 
 <br></br>
 
-<img width="20%" align="left" src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />    
-
 ---
+
+<img width="20%" align="left" src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />    
 
 ### Hi !  
 
