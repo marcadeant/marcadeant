@@ -1,7 +1,7 @@
-### Hi ! 
+### Welcome to my personal work area !
 
 <div align="left">
-  <p> <img width=200 src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" /></p> 
+  <img width=200 src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />
   <p align="right"> Firstable, I'm Antoine Marcadé, 27 years old's Data Analyst. I'm ready to get the opportunity helping companies to value their data and find keys indicator to improve business </p> 
 </div>
 
@@ -22,7 +22,7 @@
 
 
 
-## Skills
+### Skills
 
 * **Script langage and environment tools :** <img height=30 src="https://img.icons8.com/color/344/pycharm.png" alt="pycharm" />  <img height=30 src="https://img.icons8.com/fluency/344/jupyter.png" alt="pycharm" />  <img height=30 src="https://img.icons8.com/color/344/python.png" alt="pycharm" />  <img height=30 src="https://img.icons8.com/ios-filled/344/sql.png" />
 * **Databases server :** <img height=30 src="https://img.icons8.com/fluency/344/mysql-logo.png" />  <img height=30 src="https://img.icons8.com/color/344/postgreesql.png" />  <img height=30 src="https://tse3.mm.bing.net/th?id=OIP.0x0B8E0msmAtVgZqn8bjxAHaE8&pid=Api" />
