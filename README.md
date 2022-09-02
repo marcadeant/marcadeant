@@ -13,7 +13,7 @@
 👉 I'm following a 1-year data analyst professional training  ending in october 2022  
 👉 I'm ready to get the opportunity helping companies to value their data and find keys indicator to improve business  
 
----
+<p> --- </p>
 
 <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />
 
