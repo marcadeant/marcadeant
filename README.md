@@ -2,7 +2,7 @@
 
 Firstable, I'm Antoine Marcadé, 27 years old's Data Analyst. I'm ready to get the opportunity helping companies to value their data and find keys indicator to improve business. 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />  <img src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />
+<p align="center"> <img width=200 src="https://github.com/marcadeant/marcadeant/blob/main/img/profile_picture.jpg?raw=true" alt="profile picture" />  <img src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />  
 </p>
 
 ### A Little bit more about myself 👌
