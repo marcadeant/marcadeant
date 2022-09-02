@@ -1,4 +1,4 @@
-## Welcome to my personal work area !
+# Welcome to my personal work area !
 
 <br></br>
 
@@ -6,7 +6,7 @@
 
 ---
 
-# Hi 
+### Hi 
 - Firstable, I'm **Antoine Marcadé**, 27 years old's Data Analyst.
 - I'm living in suburbs of Paris
 - I'm following a 1-year data analyst professional training  ending in october 2022
