@@ -1,6 +1,6 @@
 ### Hi ! 
 
-Short presentation about myself. I'm Antoine Marcadé, 27 years old's Data Analyst open to work. 
+Firstable, I'm Antoine Marcadé, 27 years old's Data Analyst. I'm ready to get the opportunity helping companies to value their data and find keys indicator to improve business. 
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=marcadeant&show_icons=true&theme=gotham" alt="marcadeant" />
 </p>
