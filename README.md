@@ -6,9 +6,9 @@
 
 ### Hi !  
 
-👉 I'm **Antoine Marcadé**, 28 years old's Data Analyst.  
+👉 I'm **Antoine Marcadé**, 29 years old's Data Analyst.  
 👉 I'm living in suburbs of Paris  
-👉 I'm following a 1-year data analyst professional training  ending in october 2022  
+👉 My last study was a 1-year data analyst professional training at OpenClassrooms academy in november 2022  
 👉 I'm open to work getting the opportunity helping companies to value their data and find keys indicator to improve business  
 
 <br></br>
@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on every topics using data to find the best way to solve a problem (healthcare, sport, music, weather, food, education)
 - 💬 Ask me about my favorite music/movies or whatever you want around data. Easier to take a cup of coffee and talk :)
 - 📫 email address:  marcadeantoine@gmail.com be free to contact me and I'll try to answer you as fast as I can
-- ⚡ Fun fact: Did you know why both green and black olive are comestibles ? 
+- ⚡ Fun fact: Did you know the difference between greens and blacks olives ? 
 
 <br></br>
 
